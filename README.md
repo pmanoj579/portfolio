@@ -6,7 +6,7 @@ Research reports, presentations, and technical writing from my work in scientifi
 
 | Project | Focus | Selected work |
 | --- | --- | --- |
-| [BELLA-μ · Berkeley Lab](research/bella-muon/) | Muon tracking, detector-data processing, and momentum reconstruction | [SULI poster and summary](research/bella-muon/suli-poster-2025.pdf) · [Research report](research/bella-muon/suli-research-report-2025.pdf) |
+| [BELLA-μ · Berkeley Lab](research/bella-muon/) | Muon tracking, detector-data processing, and momentum reconstruction | [SULI poster and summary](research/bella-muon/suli-poster-2025.pdf) · [Research report](https://raw.githubusercontent.com/pmanoj579/portfolio/main/research/bella-muon/suli-research-report-2025.pdf) |
 | [LUNA · INFN](research/luna/) | Detector calibration and gamma-ray spectrum analysis for nuclear astrophysics | [Final report](research/luna/luna-final-report-2022.pdf) · [Peer-reviewed paper](https://doi.org/10.1103/PhysRevC.108.L052801) |
 | [Laser alignment · HZDR](research/hzdr-laser-alignment/) | Optical modeling, alignment, and EPICS/Qt controls | [Final presentation](research/hzdr-laser-alignment/laser-alignment-presentation-2023.pdf) |
 
