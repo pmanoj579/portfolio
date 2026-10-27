@@ -13,7 +13,9 @@ The BELLA-μ experiment investigates muon production using a laser plasma accele
 ## Selected Work
 
 - **[SULI poster and summary](suli-poster-2025.pdf)** — *Muon Track Reconstruction and Analysis for the BELLA-μ Experiment*. The original PDF contains the poster followed by its one-page summary.
-- **[Research report](suli-research-report-2025.pdf)** — *Reconstruction of Muon Tracks from BELLA Laser Plasma Accelerator*.
+- **[Research report](https://raw.githubusercontent.com/pmanoj579/portfolio/main/research/bella-muon/suli-research-report-2025.pdf)** — *Reconstruction of Muon Tracks from BELLA Laser Plasma Accelerator*.
 - **[EventLoaderYarr source](https://gitlab.cern.ch/corryvreckan/corryvreckan/-/tree/master/src/modules/EventLoaderYarr?ref_type=heads)** — Contributed module in the upstream Corryvreckan repository.
 
 The poster and report credit Pranav Manoj, Timon Heim, Luc Le Pottier, and Maurice Garcia-Sciveres; see each document for its author order and affiliations.
+
+The research-report link opens the PDF directly to avoid an intermittent GitHub preview error. If your browser downloads it, open the downloaded PDF in your preferred reader.
